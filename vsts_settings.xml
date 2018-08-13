@@ -1,0 +1,25 @@
+<application>
+  <component name="VSTSSettings">
+    <option name="serverContexts">
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://technokom.visualstudio.com/AGProtocolParser/_git/AGProtocolParser" />
+          <option name="serverUri" value="https://technokom.visualstudio.com" />
+          <option name="userId" value="35d95017-e9b8-6c09-b423-3bd930e1f99b" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;9a118ab7-60fa-4e2e-a6c4-e985d11c0511&quot;,&quot;name&quot;:&quot;technokom&quot;,&quot;url&quot;:&quot;https://technokom.visualstudio.com/_apis/projectCollections/9a118ab7-60fa-4e2e-a6c4-e985d11c0511&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;22c4467a-620a-4ffd-b36a-300a43b49222&quot;,&quot;name&quot;:&quot;AGProtocolParser&quot;,&quot;revision&quot;:123,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://technokom.visualstudio.com/_apis/projects/22c4467a-620a-4ffd-b36a-300a43b49222&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;4541c5d0-29a7-458a-b81b-532f48ccb07a&quot;,&quot;name&quot;:&quot;AGProtocolParser&quot;,&quot;remoteUrl&quot;:&quot;https://technokom.visualstudio.com/AGProtocolParser/_git/AGProtocolParser&quot;,&quot;url&quot;:&quot;https://technokom.visualstudio.com/_apis/git/repositories/4541c5d0-29a7-458a-b81b-532f48ccb07a&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;22c4467a-620a-4ffd-b36a-300a43b49222&quot;,&quot;name&quot;:&quot;AGProtocolParser&quot;,&quot;revision&quot;:123,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://technokom.visualstudio.com/_apis/projects/22c4467a-620a-4ffd-b36a-300a43b49222&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+      </array>
+    </option>
+    <option name="properties">
+      <array>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//technokom.visualstudio.com/agprotocolparser/_git/agprotocolparser" />
+        </PropertyState>
+      </array>
+    </option>
+  </component>
+</application>
