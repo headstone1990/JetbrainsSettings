@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="dotnet" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\dotnet\dotnet.exe" />
+      <option name="PARAMETERS" value="publish -c Release -r win10-x64" />
+      <option name="WORKING_DIRECTORY" value="C:/Work/Projects/AGProtocolParser/AGProtocolParser" />
+    </exec>
+  </tool>
+</toolSet>
